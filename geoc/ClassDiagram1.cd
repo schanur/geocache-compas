@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Microsoft.WindowsMobile.Samples.Location.DegreesMinutesSeconds" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DegreesMinutesSeconds.cs</FileName>
+      <HashCode>AAAAABAAAABAAAAEQAAAAAAAAAIAAAACAAABAAAAAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.WindowsMobile.Samples.Location.DeviceStateChangedEventArgs" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DeviceStateChangedEventArgs.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.WindowsMobile.Samples.Location.Gps" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GPS.cs</FileName>
+      <HashCode>AAAECAABACQAIASAABACACBwEABgAACIBIaAAACAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.WindowsMobile.Samples.Location.GpsDeviceState" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GpsDeviceState.cs</FileName>
+      <HashCode>AABAAAAAQAAAAIAAAAAAAAAAAAAAABAAAAAQACAggAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.WindowsMobile.Samples.Location.Satellite" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GpsPosition.cs</FileName>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAoAAAAKgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.WindowsMobile.Samples.Location.GpsPosition" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GpsPosition.cs</FileName>
+      <HashCode>YCaJOAACEEAjBjAXShhICkAhhQCJGkCgRAUIBiAwBdQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.WindowsMobile.Samples.Location.LocationChangedEventArgs" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>LocationChangedEventArgs.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.WindowsMobile.Samples.Location.Utils" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Utils.cs</FileName>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.WindowsMobile.Samples.Location.Win32" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Utils.cs</FileName>
+      <HashCode>AAAAAgAAAAAAIAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="geoc.Form1" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>AAgAAAACkCAAAAAQAASAIAACAAAAFACAEAwAAAAAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="geoc.Program" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="geoc.WebGetCache" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>WebGetCache.cs</FileName>
+      <HashCode>AECAAAQAAIABAAAAAACAAAAAACAAAAgAAAggEAAIAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="geoc.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAEAAAAQAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Microsoft.WindowsMobile.Samples.Location.FileTime" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GpsDeviceState.cs</FileName>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Microsoft.WindowsMobile.Samples.Location.SystemTime" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GpsPosition.cs</FileName>
+      <HashCode>AAAkAIAABAAAAAAAAgAAAAAAAAQAAAAAAAAiAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Microsoft.WindowsMobile.Samples.Location.SatelliteArray" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GpsPosition.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAQAAAAAAAC+5QEAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Microsoft.WindowsMobile.Samples.Location.FixQuality" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GpsPosition.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAIABA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Microsoft.WindowsMobile.Samples.Location.FixType" Collapsed="true">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GpsPosition.cs</FileName>
+      <HashCode>AAAAAAAAgAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Microsoft.WindowsMobile.Samples.Location.FixSelection" Collapsed="true">
+    <Position X="2.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GpsPosition.cs</FileName>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAABA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GpsServiceState" Collapsed="true">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GpsDeviceState.cs</FileName>
+      <HashCode>AAQBAIACAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAJA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Microsoft.WindowsMobile.Samples.Location.LocationChangedEventHandler" Collapsed="true">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GPS.cs</FileName>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Microsoft.WindowsMobile.Samples.Location.DeviceStateChangedEventHandler" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GPS.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Delegate>
+</ClassDiagram>
